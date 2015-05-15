@@ -1,0 +1,15 @@
+{
+  "name": "action-mailer",
+  "version": "0.1.0",
+  "description": "eMail abstraction for node.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "babel"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/stevenzeiler/action-mailer.git"
+  },
+  "author": "Steven Zeiler",
+  "license": "ISC"
+}
